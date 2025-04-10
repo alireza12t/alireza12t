@@ -7,4 +7,3 @@ I love working on new challenges and always start a smaple project to learn new 
 
 📫 How to reach me: alirezatoghyiani@gmail.com
 
-// ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=devmvrick)
